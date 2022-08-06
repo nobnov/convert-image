@@ -18,4 +18,8 @@ Install form requirements.txt or manually install.
 
 	python convert-filetype.py
 
-## Result
+## Author
+**nobnov (Nobukazu Ishii)**
+
+- [Twitter](https://twitter.com/nobnov)
+- [Facebook](https://www.facebook.com/nobnov.ISHII)
